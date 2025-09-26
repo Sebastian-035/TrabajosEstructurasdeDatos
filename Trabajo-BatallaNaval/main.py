@@ -1,3 +1,4 @@
+#Primera Revicion 26/09/25
 class BatallaNaval:
     def __init__(self):
         self.filas = 10
@@ -116,4 +117,5 @@ class BatallaNaval:
 
 if __name__ == "__main__":
     juego = BatallaNaval()
+
     juego.iniciar_juego()
