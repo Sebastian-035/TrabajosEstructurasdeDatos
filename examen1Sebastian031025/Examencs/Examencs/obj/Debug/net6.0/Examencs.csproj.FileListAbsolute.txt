@@ -1,0 +1,15 @@
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\bin\Debug\net6.0\Examencs.exe
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\bin\Debug\net6.0\Examencs.deps.json
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\bin\Debug\net6.0\Examencs.runtimeconfig.json
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\bin\Debug\net6.0\Examencs.dll
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\bin\Debug\net6.0\Examencs.pdb
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.csproj.AssemblyReference.cache
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.AssemblyInfoInputs.cache
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.AssemblyInfo.cs
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.csproj.CoreCompileInputs.cache
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.dll
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\refint\Examencs.dll
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.pdb
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\Examencs.genruntimeconfig.cache
+C:\Users\FIM-CC3\Desktop\Examencs\Examencs\obj\Debug\net6.0\ref\Examencs.dll
