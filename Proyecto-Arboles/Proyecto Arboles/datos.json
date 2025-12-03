@@ -1,0 +1,47 @@
+{
+  "proximo_id": 7,
+  "nodos": [
+    {
+      "id": 1,
+      "nombre": "root",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 0
+    },
+    {
+      "id": 3,
+      "nombre": "Musica",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Proyecto",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 4,
+      "nombre": "archivo1.txt",
+      "tipo": "ARCHIVO",
+      "contenido": "",
+      "padre_id": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Documentos",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 5
+    },
+    {
+      "id": 6,
+      "nombre": "tesis.pdf",
+      "tipo": "ARCHIVO",
+      "contenido": "",
+      "padre_id": 1
+    }
+  ]
+}
