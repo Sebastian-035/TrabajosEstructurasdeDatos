@@ -1,0 +1,12 @@
+{
+  "proximo_id": 2,
+  "nodos": [
+    {
+      "id": 1,
+      "nombre": "root",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 0
+    }
+  ]
+}
