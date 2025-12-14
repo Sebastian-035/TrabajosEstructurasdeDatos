@@ -1,0 +1,47 @@
+{
+  "proximo_id": 7,
+  "nodos": [
+    {
+      "id": 1,
+      "nombre": "root",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 0
+    },
+    {
+      "id": 2,
+      "nombre": "documentos",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "music.txt",
+      "tipo": "ARCHIVO",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Imagenes",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "nueva carpeta",
+      "tipo": "CARPETA",
+      "contenido": "",
+      "padre_id": 1
+    },
+    {
+      "id": 6,
+      "nombre": "hola mundo.txt",
+      "tipo": "ARCHIVO",
+      "contenido": "",
+      "padre_id": 1
+    }
+  ]
+}
